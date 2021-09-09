@@ -30,6 +30,7 @@
 | ----------- | ----------- |
 | Hardhat | https://hardhat.org/tutorial/ |
 | Let's Do Defi Guides | https://letsdodefi.com/ |
+| ETH Dev Speed Run | https://medium.com/@austin_48503/%EF%B8%8Fethereum-dev-speed-run-bd72bcba6a4c |
 
 </details>
 
@@ -49,6 +50,7 @@
 | Most common smart contract bugs of 2020 | https://medium.com/solidified/most-common-smart-contract-bugs-of-2020-c1edfe9340ac |
 | Deconstructing a Solidity Contract —Part I | https://blog.openzeppelin.com/deconstructing-a-solidity-contract-part-i-introduction-832efd2d7737/ |
 | Developer Superpowers with The Graph | https://theethernaut.substack.com/p/developer-superpowers-with-thegraph |
+| Learn how to build a DEX | https://medium.com/@austin_48503/%EF%B8%8F-minimum-viable-exchange-d84f30bd0c90 |
 
 </details>
 
@@ -63,6 +65,7 @@
 | Infura | https://infura.io/ |
 | Alchemy | https://www.alchemy.com/ |
 | Tenderly - Smart Contract Monitoring and Alerting | https://tenderly.co/ |
+| Scaffold-ETH | https://github.com/austintgriffith/scaffold-eth |
 
 </details>
 
